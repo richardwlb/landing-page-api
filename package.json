@@ -13,7 +13,7 @@
   "devDependencies": {},
   "dependencies": {
     "knex": "<0.20.0",
-    "pg": "latest",
+    "pg": "^8.7.3",
     "strapi": "3.4.1",
     "strapi-admin": "3.4.1",
     "strapi-connector-bookshelf": "3.4.1",
